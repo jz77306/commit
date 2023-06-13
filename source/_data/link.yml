@@ -1,0 +1,18 @@
+# yml格式
+- class_name: Sjmaxc's Blog
+  class_desc: # 备注
+  link_list: # 构建友链列表
+    - name: SjMaxc
+      link: http://124.70.176.167/
+      avatar: http://124.70.176.167/wp-content/uploads/2023/05/头像.png
+      descr: 大佬的博客
+
+- class_name: KRSY's Blog
+  class_desc: # 备注
+  link_list: # 构建友链列表
+    - name: KRSY
+      link: https://www.rsyblog.com/
+      avatar: https://www.rsyblog.com/%5Cassets%5Chead.png
+      descr: 大佬的博客
+
+
